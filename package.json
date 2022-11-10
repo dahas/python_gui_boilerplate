@@ -1,0 +1,16 @@
+{
+  "name": "ToDoList",
+  "version": "1.0.0",
+  "description": "A Phython GUI with Flask",
+  "main": "index.js",
+  "author": "MJW",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.2.3"
+  },
+  "scripts": {
+    "watch": "yarn tailwindcss -i ./static/src/css/input.css -o ./static/dist/css/styles.css --watch",
+    "run-app": "python app.py"
+  }
+}
+
