@@ -1,7 +1,7 @@
 {
-  "name": "ToDoList",
+  "name": "PythonGUIBoilerplate",
   "version": "1.0.0",
-  "description": "A Phython GUI with Flask",
+  "description": "A Phython GUI with Flask, Django and TailwindCSS",
   "main": "index.js",
   "author": "MJW",
   "license": "MIT",
